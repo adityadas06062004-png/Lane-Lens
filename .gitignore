@@ -1,0 +1,6 @@
+__pycache__/
+.venv/
+*.pt
+*.mp4
+runs/
+.pytest_cache/

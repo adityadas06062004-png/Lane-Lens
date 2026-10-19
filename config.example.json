@@ -1,0 +1,12 @@
+{
+  "profile": "standard",
+  "rules": ["red_light", "wrong_way", "illegal_stop"],
+  "traffic_flow": "auto",
+  "signal_direction": "down",
+  "stop_line": 0.6,
+  "signal_roi": [0.45, 0.05, 0.5, 0.15],
+  "no_stop_zone": [[0.05, 0.65], [0.35, 0.65], [0.35, 0.95], [0.05, 0.95]],
+  "max_dwell_seconds": 8,
+  "speed_limit_kmh": 40,
+  "speed_plane": null
+}

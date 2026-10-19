@@ -1,0 +1,7 @@
+ultralytics
+lap
+opencv-python-headless
+streamlit>=1.50
+pandas
+numpy
+pytest
